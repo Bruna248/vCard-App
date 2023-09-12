@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "vCard",
+    "orientation": "portrait",
+    "icon": "./assets/img/logo.jpg",
+    "android": {
+      "package": "pt.vcard",
+      "googleServicesFile": "./google-services.json",
+      "permissions": ["READ_CONTACTS", "WRITE_CONTACTS"]
+    }
+  }
+}
